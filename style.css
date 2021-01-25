@@ -1,0 +1,22 @@
+.description {
+    text-shadow: 2px;
+    font-size: 48px;
+    border: 50;
+
+.image1 {
+    content: url(https://www.google.com/search?q=flower&tbm=isch&ved=2ahUKEwjUzpmUkpnuAhWFtKQKHSQ0DZsQ2-cCegQIABAA&oq=flower&gs_lcp=CgNpbWcQAzIECAAQQzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyBAgAEEMyBAgAEEM6BggAEAUQHlDHxzNYnOozYKDsM2gAcAB4AYABtwOIAfMWkgEKNi4xMC4xLjEuMZgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=mgb_X9SZLIXpkgWk6LTYCQ&bih=599&biw=1366&client=ubuntu&hs=2Y5#imgrc=rwqXxYAWHAml0M);
+    
+    border-style: flex;
+    width: 50px;
+    height: 50px;
+}
+
+
+.image2 {
+background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.japan-guide.com%2Fe%2Fe2423.html&psig=AOvVaw3cn6xAbZlEUVehSJBKXjpL&ust=1611248049791000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODskO_8qu4CFQAAAAAdAAAAABAF);
+background-size: cover;
+background-position: center;
+height: 1000px;
+width: 1000px;
+}
+
